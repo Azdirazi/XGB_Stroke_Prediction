@@ -26,5 +26,5 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 * GitHub
 
 ## References
-* For Dataset [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* For Dataset [Kaggle]([https://www.kaggle.com/uciml/pima-indians-diabetes-database](https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5#Model-preparation)https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5#Model-preparation)
 * For UI [Streamlit](https://streamlit.io/)
